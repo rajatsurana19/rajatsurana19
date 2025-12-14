@@ -1,5 +1,11 @@
 # 💫 About Me:
-Im currently working on ai agents and n8n automation<br>i am also learning cybersecurity <br>i have created projects in python for conversion of text to audio and pdf to audio<br>also i am interested in cloud computing
+I study Computer Engineering at K. J. Somaiya Institute of Technology. I am part of the class of 2028. I have this real passion for creating software. It tackles actual problems in the world. It helps make technology open to more people.
+
+My path started back in my diploma program for Computer Technology at BVJNIOT. That is where I first saw how programming takes daily issues. It turns them into solutions that can grow big. As time went on, I built up solid skills in Java and Python. I also got good at backend development. My focus stayed on pulling out data. I worked with web scraping too. And API integration became a key part.
+
+One project that meant a lot to me involved building a multi-linguistic audio app. It handled PDF conversion along with transcription. It even did translation. That whole process gave me real hands-on practice. I learned to mix creativity with logic. And it showed me how code can create real impact.
+
+Right now, I look for chances in Python Development. Java Development interests me as well. Backend systems could be a fit too. I want to help build things that run smoothly. They should automate tasks. And make solutions easy for anyone to use. The thing that pushes me forward is this thought. Great tech brings people together. I am ready to learn more. I plan to create and grow in that space.
 
 
 ## 🌐 Socials:
@@ -15,4 +21,4 @@ Im currently working on ai agents and n8n automation<br>i am also learning cyber
 ---
 [![](https://visitcount.itsvg.in/api?id=rajatsurana19&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
