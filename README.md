@@ -1,19 +1,125 @@
-# 💫 About Me:
-I study Computer Engineering at K. J. Somaiya Institute of Technology. I am part of the class of 2028. I have this real passion for creating software. It tackles actual problems in the world. It helps make technology open to more people.<br><br>My path started back in my diploma program for Computer Technology at BVJNIOT. That is where I first saw how programming takes daily issues. It turns them into solutions that can grow big. As time went on, I built up solid skills in Java and Python. I also got good at backend development. My focus stayed on pulling out data. I worked with web scraping too. And API integration became a key part.<br><br>One project that meant a lot to me involved building a multi-linguistic audio app. It handled PDF conversion along with transcription. It even did translation. That whole process gave me real hands-on practice. I learned to mix creativity with logic. And it showed me how code can create real impact.<br><br>Right now, I look for chances in Python Development. Java Development interests me as well. Backend systems could be a fit too. I want to help build things that run smoothly. They should automate tasks. And make solutions easy for anyone to use. The thing that pushes me forward is this thought. Great tech brings people together. I am ready to learn more. I plan to create and grow in that space.
+# Rajat Surana
 
+### Software Engineering | Backend Systems | Privacy-First Products
 
-# 💻 Tech Stack:
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rajatsurana19&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rajatsurana19&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatsurana19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Computer Engineering student at K. J. Somaiya Institute of Technology, graduating in 2028. I build software that solves practical problems, from peer-to-peer file sharing to secure personal storage and multilingual accessibility tools.
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rajatsurana19&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[GitHub](https://github.com/rajatsurana19) · [LinkedIn](https://linkedin.com/in/rajat-surana)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rajatsurana19&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Highlights
+
+| 9.38 / 10 | 4× Wins | 35% Faster | 10+ Users |
+|:---:|:---:|:---:|:---:|
+| Current CGPA | Inter-college competitions | Lower query latency during internship | MyDump users |
+
+- Led a four-member team that won four inter-college competitions with the Multi-Linguistic Audio Solution, finishing ahead of 20+ teams.
+- Participated in 6+ hackathons and project competitions combined.
+- Built a browser-based peer-to-peer file-sharing platform supporting transfers up to 2 GB.
+- Developed secure personal-storage software designed to reduce dependence on dedicated storage infrastructure.
+
+## Featured Projects
+
+### 01. MyDump | Privacy-First Personal Storage
+
+A secure desktop application designed to simplify personal file storage while keeping privacy and access protection central to the experience.
+
+- Uses Telegram as a remote storage backend instead of dedicated file-storage infrastructure.
+- Combines file encryption, passkey-protected access, and secure storage workflows.
+- Built around a streamlined upload, encryption, storage, and retrieval process.
+- Developed for real-world use, with 10+ users reported in my resume.
+
+**Tech:** Flutter · Dart · Python · FastAPI · Encryption
+
+*Currently in development.*
+
+### 02. [Filevo](https://github.com/rajatsurana19/Filevo) | Peer-to-Peer File Sharing
+
+A browser-based file-sharing platform that lets users transfer files directly between devices without accounts or server-side file storage.
+
+- Supports transfers up to 2 GB.
+- Uses WebRTC for peer-to-peer transfer and WebSockets for signaling.
+- Built a React frontend and FastAPI backend.
+- Designed around privacy, direct communication, and minimal server-side storage.
+
+**Tech:** Python · FastAPI · React · WebRTC · WebSockets · Docker
+
+[Source Code](https://github.com/rajatsurana19/Filevo)
+
+### 03. [Multi-Linguistic Audio Solution](https://github.com/rajatsurana19/Multi-Linguistic-Audio-Solution) | 4× Competition Winner
+
+A multilingual accessibility application that converts documents and text into audio and supports speech processing across languages.
+
+- Built an NLP and document-processing pipeline from scratch.
+- Integrated PDF processing, text-to-speech, speech-to-text, and translation workflows.
+- Deployed the application using Streamlit for access beyond the development team.
+- Led a four-member team to four inter-college competition wins.
+
+**Tech:** Python · NLP · Streamlit · PDF Parsing · Speech Synthesis
+
+[Source Code](https://github.com/rajatsurana19/Multi-Linguistic-Audio-Solution) · [Live Demo](https://multi-linguistic-audio-solution.streamlit.app)
+
+### 04. [Urban Heat Island Analysis](https://github.com/rajatsurana19/UHI-Analysis-Mumbai) | Mumbai
+
+A machine-learning project investigating urban temperature differences across Mumbai using a decade of Landsat satellite data.
+
+- Developed a hybrid Linear Regression and Random Forest approach.
+- Engineered features from 40+ temporal and spectral variables.
+- Reported an RMSE of 1.07°C.
+- Identified a 7°C temperature difference between dense urban areas and planned districts in the study.
+
+**Tech:** Python · Google Earth Engine · Pandas · Scikit-learn · Random Forest
+
+[Source Code](https://github.com/rajatsurana19/UHI-Analysis-Mumbai)
+
+## Experience
+
+### Software Engineering Intern | Pragati Computer Academy
+
+*June 2024 – July 2024 · Pune, India*
+
+- Developed four backend modules using Java, JDBC, and MySQL.
+- Optimized SQL queries, reducing average query latency by approximately 35%.
+- Built a Java Swing GUI using object-oriented and event-driven programming principles.
+
+## Technical Skills
+
+**Languages:** Java, Python, C++, SQL, JavaScript
+
+**Backend:** Spring Boot, FastAPI, REST APIs, JDBC, WebSockets
+
+**Databases:** PostgreSQL, MySQL, MongoDB, SQLite
+
+**Frontend:** React, HTML, CSS, Streamlit
+
+**Tools:** Git, GitHub, Docker, Postman
+
+**Foundations:** Data Structures and Algorithms, OOP, DBMS, Computer Networks, API Design
+
+## Education
+
+**K. J. Somaiya Institute of Technology**  
+B.Tech in Computer Engineering · Expected 2028  
+CGPA: 9.38 / 10
+
+**Bharati Vidyapeeth's Jawaharlal Nehru Institute of Technology**  
+Diploma in Computer Technology  
+94.69%
+
+## What I'm Working Towards
+
+- Building robust backend systems with Java and Spring Boot.
+- Understanding concurrency, API security, system design, and distributed systems.
+- Developing privacy-focused applications with practical security controls.
+- Writing maintainable code, documenting architecture, and measuring performance through testing.
+
+## Connect
+
+- [GitHub Profile](https://github.com/rajatsurana19)
+- [Explore My Repositories](https://github.com/rajatsurana19?tab=repositories)
+- [LinkedIn](https://linkedin.com/in/rajat-surana)
+
+---
+
+*Build with intent. Measure what matters. Keep improving.*
