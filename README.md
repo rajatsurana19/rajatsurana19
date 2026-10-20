@@ -114,6 +114,23 @@ Diploma in Computer Technology
 - Developing privacy-focused applications with practical security controls.
 - Writing maintainable code, documenting architecture, and measuring performance through testing.
 
+##  GitHub Analytics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajatsurana19&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=E2E8F0" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=rajatsurana19&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatsurana19&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E2E8F0&layout=compact&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajatsurana19&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=E2E8F0" />
+
+</div>
+
+### 👁️ Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=rajatsurana19&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+
+
 ## Connect
 
 - [GitHub Profile](https://github.com/rajatsurana19)
