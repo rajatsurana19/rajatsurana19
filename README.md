@@ -10,7 +10,7 @@ Computer Engineering student at K. J. Somaiya Institute of Technology, graduatin
 
 ## Highlights
 
-| 9.38 / 10 | 4× Wins | 35% Faster | 10+ Users |
+| 9.66 / 10 | 4× Wins | 35% Faster | 10+ Users |
 |:---:|:---:|:---:|:---:|
 | Current CGPA | Inter-college competitions | Lower query latency during internship | MyDump users |
 
