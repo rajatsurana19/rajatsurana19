@@ -64,16 +64,7 @@
 
 <img src="assets/h-achievements.svg" alt="hackathons and achievements" width="100%" />
 
-| Result | Event |
-|:---|:---|
-| Finalist | Paytm Build with AI Hackathon, Paytm HQ, Mumbai. Built Gullak AI. |
-| Internal round winner | Smart India Hackathon internal round, 1 of 100+ teams. Built VeriBhoomi AI. |
-| 1st place (2x) | Ideamine. Bharati Vidyapeeth's Jawaharlal Nehru Institute of Technology. |
-| 2nd place (2x) | Symbiosis Institute of Technology. Bharati Vidyapeeth College of Engineering. |
-| 3rd place | K. J. Somaiya Institute of Technology. |
-| Merged PR | Checkora, open-source chess platform. Backend concurrency and state sync. |
-| Certified | Cisco Networking Academy, Introduction to Cybersecurity. |
-| 195+ problems | LeetCode, with focus on dynamic programming, graphs and trees. |
+<img src="assets/achievements.svg" alt="Finalist at Paytm Build with AI Hackathon. Smart India Hackathon internal round winner. 1st place at Ideamine and BV JNIOT. 2nd place at Symbiosis Institute of Technology and Bharati Vidyapeeth College of Engineering. 3rd place at KJSIT. Merged PR in Checkora. Cisco Introduction to Cybersecurity certified. 195+ LeetCode problems solved." width="100%" />
 
 <br />
 

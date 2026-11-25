@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="574" viewBox="0 0 1000 574">
+<style>.tag{font:600 12px 'JetBrains Mono','SF Mono',Consolas,monospace}.t{font:600 15px 'Inter','Segoe UI',system-ui,sans-serif;fill:#E2E8F0}.d{font:400 12px 'JetBrains Mono','SF Mono',Consolas,monospace;fill:#8B96A8}
+@keyframes f{to{opacity:1}}@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important}}</style>
+<rect x=".5" y=".5" width="999" height="573" rx="8" fill="#11161F" stroke="#232B3A"/><g style="animation:f .5s 0.2s ease both;opacity:0">
+<rect x="24" y="20" width="150" height="38" rx="6" fill="#6366F1" stroke="none" stroke-opacity=".55"/>
+<text x="99" y="44" class="tag" text-anchor="middle" fill="#E2E8F0">Finalist</text>
+<text x="198" y="36" class="t">Paytm Build with AI Hackathon</text>
+<text x="198" y="54" class="d">Paytm HQ, Mumbai. Built Gullak AI.</text>
+<line x1="24" y1="66" x2="976" y2="66" stroke="#232B3A" stroke-opacity=".6"/></g><g style="animation:f .5s 0.38s ease both;opacity:0">
+<rect x="24" y="74" width="150" height="38" rx="6" fill="#6366F1" stroke="none" stroke-opacity=".55"/>
+<text x="99" y="98" class="tag" text-anchor="middle" fill="#E2E8F0">Round winner</text>
+<text x="198" y="90" class="t">Smart India Hackathon, internal round</text>
+<text x="198" y="108" class="d">1 of 100+ teams. Built VeriBhoomi AI.</text>
+<line x1="24" y1="120" x2="976" y2="120" stroke="#232B3A" stroke-opacity=".6"/></g><g style="animation:f .5s 0.56s ease both;opacity:0">
+<rect x="24" y="128" width="150" height="38" rx="6" fill="#4549B8" stroke="none" stroke-opacity=".55"/>
+<text x="99" y="152" class="tag" text-anchor="middle" fill="#E2E8F0">1st place</text>
+<text x="198" y="144" class="t">Ideamine</text>
+<text x="198" y="162" class="d">Collegiate hackathon or technical competition</text>
+<line x1="24" y1="174" x2="976" y2="174" stroke="#232B3A" stroke-opacity=".6"/></g><g style="animation:f .5s 0.74s ease both;opacity:0">
+<rect x="24" y="182" width="150" height="38" rx="6" fill="#4549B8" stroke="none" stroke-opacity=".55"/>
+<text x="99" y="206" class="tag" text-anchor="middle" fill="#E2E8F0">1st place</text>
+<text x="198" y="198" class="t">Bharati Vidyapeeth&#x27;s Jawaharlal Nehru Institute of Technology</text>
+<text x="198" y="216" class="d">Collegiate hackathon or technical competition</text>
+<line x1="24" y1="228" x2="976" y2="228" stroke="#232B3A" stroke-opacity=".6"/></g><g style="animation:f .5s 0.9199999999999999s ease both;opacity:0">
+<rect x="24" y="236" width="150" height="38" rx="6" fill="#2E3170" stroke="none" stroke-opacity=".55"/>
+<text x="99" y="260" class="tag" text-anchor="middle" fill="#E2E8F0">2nd place</text>
+<text x="198" y="252" class="t">Symbiosis Institute of Technology</text>
+<text x="198" y="270" class="d">Collegiate hackathon or technical competition</text>
+<line x1="24" y1="282" x2="976" y2="282" stroke="#232B3A" stroke-opacity=".6"/></g><g style="animation:f .5s 1.0999999999999999s ease both;opacity:0">
+<rect x="24" y="290" width="150" height="38" rx="6" fill="#2E3170" stroke="none" stroke-opacity=".55"/>
+<text x="99" y="314" class="tag" text-anchor="middle" fill="#E2E8F0">2nd place</text>
+<text x="198" y="306" class="t">Bharati Vidyapeeth College of Engineering</text>
+<text x="198" y="324" class="d">Collegiate hackathon or technical competition</text>
+<line x1="24" y1="336" x2="976" y2="336" stroke="#232B3A" stroke-opacity=".6"/></g><g style="animation:f .5s 1.28s ease both;opacity:0">
+<rect x="24" y="344" width="150" height="38" rx="6" fill="#222650" stroke="none" stroke-opacity=".55"/>
+<text x="99" y="368" class="tag" text-anchor="middle" fill="#E2E8F0">3rd place</text>
+<text x="198" y="360" class="t">K. J. Somaiya Institute of Technology</text>
+<text x="198" y="378" class="d">Collegiate hackathon or technical competition</text>
+<line x1="24" y1="390" x2="976" y2="390" stroke="#232B3A" stroke-opacity=".6"/></g><g style="animation:f .5s 1.46s ease both;opacity:0">
+<rect x="24" y="398" width="150" height="38" rx="6" fill="#6366F1" stroke="none" stroke-opacity=".55"/>
+<text x="99" y="422" class="tag" text-anchor="middle" fill="#E2E8F0">Merged PR</text>
+<text x="198" y="414" class="t">Checkora</text>
+<text x="198" y="432" class="d">Open-source chess platform. Backend concurrency and state sync.</text>
+<line x1="24" y1="444" x2="976" y2="444" stroke="#232B3A" stroke-opacity=".6"/></g><g style="animation:f .5s 1.64s ease both;opacity:0">
+<rect x="24" y="452" width="150" height="38" rx="6" fill="none" stroke="#6366F1" stroke-opacity=".55"/>
+<text x="99" y="476" class="tag" text-anchor="middle" fill="#A5B4FC">Certified</text>
+<text x="198" y="468" class="t">Cisco Networking Academy</text>
+<text x="198" y="486" class="d">Introduction to Cybersecurity</text>
+<line x1="24" y1="498" x2="976" y2="498" stroke="#232B3A" stroke-opacity=".6"/></g><g style="animation:f .5s 1.8199999999999998s ease both;opacity:0">
+<rect x="24" y="506" width="150" height="38" rx="6" fill="none" stroke="#6366F1" stroke-opacity=".55"/>
+<text x="99" y="530" class="tag" text-anchor="middle" fill="#A5B4FC">195+ solved</text>
+<text x="198" y="522" class="t">LeetCode</text>
+<text x="198" y="540" class="d">Dynamic programming, graphs, trees, linked structures.</text>
+<line x1="24" y1="552" x2="976" y2="552" stroke="#232B3A" stroke-opacity=".6"/></g></svg>
