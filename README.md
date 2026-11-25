@@ -76,9 +76,7 @@
 
 <img src="assets/h-education.svg" alt="education" width="100%" />
 
-**B.Tech, Computer Engineering** &nbsp;|&nbsp; K. J. Somaiya Institute of Technology, Mumbai &nbsp;|&nbsp; Sep 2025 to Jun 2028 (expected) &nbsp;|&nbsp; CGPA 9.66 / 10
-
-**Diploma, Computer Technology** &nbsp;|&nbsp; Bharati Vidyapeeth's Jawaharlal Nehru Institute of Technology, Pune &nbsp;|&nbsp; Sep 2022 to May 2025 &nbsp;|&nbsp; 94.69%
+<img src="assets/education.svg" alt="Diploma in Computer Technology, Bharati Vidyapeeth's Jawaharlal Nehru Institute of Technology, Pune, 94.69%, Sep 2022 to May 2025. B.Tech in Computer Engineering, K. J. Somaiya Institute of Technology, Mumbai, CGPA 9.66, Sep 2025 to Jun 2028 expected." width="100%" />
 
 <br />
 
