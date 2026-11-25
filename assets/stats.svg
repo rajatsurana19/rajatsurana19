@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="130" viewBox="0 0 1000 130">
+<style>.v{font:700 38px 'Inter','Segoe UI',system-ui,sans-serif;fill:#E2E8F0;letter-spacing:-1px}.l{font:400 12px 'JetBrains Mono','SF Mono',Consolas,monospace;fill:#8B96A8}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect x=".5" y=".5" width="999" height="129" rx="8" fill="#11161F" stroke="#232B3A"/><text x="24" y="62" class="v">9.66</text><text x="24" y="86" class="l">CGPA out of 10</text>
+<rect x="24" y="102" width="200" height="3" fill="#232B3A"/><rect x="24" y="102" height="3" width="0" fill="#6366F1" style="animation:g0 1.6s 0.2s ease forwards" data-w="193"/>
+<style>@keyframes g0{to{width:193px}}</style><text x="268" y="62" class="v">195+</text><text x="268" y="86" class="l">LeetCode problems solved</text>
+<rect x="268" y="102" width="200" height="3" fill="#232B3A"/><rect x="268" y="102" height="3" width="0" fill="#6366F1" style="animation:g1 1.6s 0.45s ease forwards" data-w="156"/>
+<style>@keyframes g1{to{width:156px}}</style><text x="512" y="62" class="v">5</text><text x="512" y="86" class="l">top-3 podium finishes</text>
+<rect x="512" y="102" width="200" height="3" fill="#232B3A"/><rect x="512" y="102" height="3" width="0" fill="#6366F1" style="animation:g2 1.6s 0.7s ease forwards" data-w="100"/>
+<style>@keyframes g2{to{width:100px}}</style><text x="756" y="62" class="v">1</text><text x="756" y="86" class="l">merged PR in Checkora</text>
+<rect x="756" y="102" width="200" height="3" fill="#232B3A"/><rect x="756" y="102" height="3" width="0" fill="#6366F1" style="animation:g3 1.6s 0.95s ease forwards" data-w="60"/>
+<style>@keyframes g3{to{width:60px}}</style></svg>

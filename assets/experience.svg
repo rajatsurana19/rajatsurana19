@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="551" viewBox="0 0 1000 551">
+<style>.r{font:600 17px 'Inter','Segoe UI',system-ui,sans-serif;fill:#E2E8F0}.d{font:500 12px 'JetBrains Mono','SF Mono',Consolas,monospace;fill:#A5B4FC}.o{font:400 12px 'JetBrains Mono','SF Mono',Consolas,monospace;fill:#8B96A8}.p{font:400 14px 'Inter','Segoe UI',system-ui,sans-serif;fill:#E2E8F0;opacity:.85}
+@keyframes f{to{opacity:1}}@keyframes l{to{stroke-dashoffset:0}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<line x1="24" y1="28" x2="24" y2="541" stroke="#6366F1" stroke-width="2" stroke-dasharray="551" stroke-dashoffset="551" style="animation:l 3.2s ease forwards"/>
+<rect x="19" y="28" width="10" height="10" fill="#0D1117" stroke="#6366F1" stroke-width="2" style="animation:f .4s 0.3s ease both;opacity:0"/><rect x="19" y="175" width="10" height="10" fill="#0D1117" stroke="#6366F1" stroke-width="2" style="animation:f .4s 1.2s ease both;opacity:0"/><rect x="19" y="301" width="10" height="10" fill="#0D1117" stroke="#6366F1" stroke-width="2" style="animation:f .4s 2.1s ease both;opacity:0"/><rect x="19" y="427" width="10" height="10" fill="#0D1117" stroke="#6366F1" stroke-width="2" style="animation:f .4s 3.0s ease both;opacity:0"/><g style="animation:f .6s 0.3s ease both;opacity:0">
+<text x="64" y="40" class="r">Open Source Contributor</text>
+<text x="976" y="40" class="d" text-anchor="end">Nov 2026</text>
+<text x="64" y="62" class="o">Checkora  /  Remote</text><text x="64" y="90" class="p">Fixed state desynchronization between live browser sessions and database records in a real-time chess platform.</text><text x="64" y="111" class="p">Added optimistic locking and transaction controls against race conditions on simultaneous moves. Kept CI green</text><text x="64" y="132" class="p">across 360+ backend tests. PR #2653 merged.</text></g><g style="animation:f .6s 1.2s ease both;opacity:0">
+<text x="64" y="187" class="r">Freelance Software Developer</text>
+<text x="976" y="187" class="d" text-anchor="end">2024 to 2026</text>
+<text x="64" y="209" class="o">Jewellery business client  /  Pune and remote</text><text x="64" y="237" class="p">Delivered three internal tools: bill and order management (200+ bills processed), OCR price-tag extraction (500+</text><text x="64" y="258" class="p">tags scanned) and employee management. Built and launched two live client websites.</text></g><g style="animation:f .6s 2.1s ease both;opacity:0">
+<text x="64" y="313" class="r">Software Engineering Intern</text>
+<text x="976" y="313" class="d" text-anchor="end">Jun to Jul 2024</text>
+<text x="64" y="335" class="o">Pragati Computer Academy  /  Pune</text><text x="64" y="363" class="p">Built four backend modules in Java, JDBC and MySQL. Cut average query latency by about 35% through SQL</text><text x="64" y="384" class="p">optimization. Built a Java Swing GUI.</text></g><g style="animation:f .6s 3.0s ease both;opacity:0">
+<text x="64" y="439" class="r">Backend Intern</text>
+<text x="976" y="439" class="d" text-anchor="end">1 month</text>
+<text x="64" y="461" class="o">K. J. Somaiya Institute of Technology  /  Mumbai</text><text x="64" y="489" class="p">Built a URL shortener REST API with Spring Security, JWT, OAuth2 and Redis caching, reaching sub-45 ms</text><text x="64" y="510" class="p">redirects.</text></g></svg>
