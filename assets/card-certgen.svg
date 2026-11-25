@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="232" viewBox="0 0 480 232">
+<style>
+.t{font:700 20px 'Inter','Segoe UI',system-ui,sans-serif;fill:#E2E8F0}
+.st{font:400 12px 'JetBrains Mono','SF Mono',Consolas,monospace;fill:#A5B4FC}
+.sum{font:400 13px 'Inter','Segoe UI',system-ui,sans-serif;fill:#8B96A8}
+.met{font:500 11px 'JetBrains Mono','SF Mono',Consolas,monospace;fill:#E2E8F0}
+.tech{font:400 11px 'JetBrains Mono','SF Mono',Consolas,monospace;fill:#8B96A8}
+.cat{font:500 11px 'JetBrains Mono','SF Mono',Consolas,monospace;fill:#8B96A8}
+.sweep{stroke-dasharray:140 1424;animation:run 7s linear infinite}
+@keyframes run{to{stroke-dashoffset:-1564}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x=".5" y=".5" width="479" height="231" rx="8" fill="#11161F" stroke="#232B3A"/>
+<rect x=".5" y=".5" width="479" height="231" rx="8" fill="none" stroke="#6366F1" stroke-width="1.5" class="sweep"/>
+<text x="24" y="40" class="t">Bulk Certificate Generator</text>
+<text x="24" y="60" class="st">Batch document synthesizer</text>
+<text x="456" y="40" class="cat" text-anchor="end">Full-Stack</text>
+<text x="24" y="90" class="sum">Template plus CSV or Excel in, personalized PDFs out.</text><text x="24" y="108" class="sum">100 certificates in under a minute.</text>
+<line x1="24" y1="142" x2="456" y2="142" stroke="#232B3A"/>
+<text x="24" y="166" class="met">100 certs / min</text><text x="176" y="166" class="met">ZIP or merged PDF</text><text x="328" y="166" class="met">Worker-pool rendering</text>
+<line x1="24" y1="180" x2="456" y2="180" stroke="#232B3A"/>
+<text x="24" y="200" class="tech">Java / Spring Boot / PostgreSQL / React / PDF</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240">
+<style>
+.name{font:700 46px 'Inter','Segoe UI',system-ui,sans-serif;fill:#E2E8F0;letter-spacing:-1px}
+.sub{font:400 14px 'JetBrains Mono','SF Mono',Consolas,monospace;fill:#8B96A8}
+.type{font:500 19px 'JetBrains Mono','SF Mono',Consolas,monospace;fill:#A5B4FC}
+.pr{font:500 14px 'JetBrains Mono','SF Mono',Consolas,monospace;fill:#6366F1}
+.cur{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+@keyframes scan{0%{transform:translateX(-300px)}100%{transform:translateX(1300px)}}
+@keyframes t0{0%,0.00%{width:0}12.50%,22.00%{width:426px}25.00%,100%{width:0}}@keyframes t1{0%,25.00%{width:0}37.50%,47.00%{width:504px}50.00%,100%{width:0}}@keyframes t2{0%,50.00%{width:0}62.50%,72.00%{width:582px}75.00%,100%{width:0}}@keyframes t3{0%,75.00%{width:0}87.50%,97.00%{width:571px}100.00%,100%{width:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+<pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#232B3A" stroke-width="1" opacity=".55"/></pattern>
+<linearGradient id="s" x1="0" x2="1"><stop offset="0" stop-color="#6366F1" stop-opacity="0"/><stop offset=".5" stop-color="#6366F1" stop-opacity=".9"/><stop offset="1" stop-color="#6366F1" stop-opacity="0"/></linearGradient>
+<linearGradient id="f" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0D1117" stop-opacity="0"/><stop offset="1" stop-color="#0D1117"/></linearGradient>
+</defs>
+<rect width="1000" height="240" rx="10" fill="#0D1117"/>
+<rect width="1000" height="240" rx="10" fill="url(#g)"/>
+<rect width="1000" height="240" rx="10" fill="url(#f)"/>
+<rect x="0" y="238" width="300" height="2" fill="url(#s)" style="animation:scan 6s linear infinite"/>
+<rect x=".5" y=".5" width="999" height="239" rx="10" fill="none" stroke="#232B3A"/>
+<text x="48" y="40" class="sub">rajat@somaiya:~$ whoami</text>
+<text x="48" y="100" class="name">Rajat Surana</text>
+<text x="48" y="126" class="sub">Computer Engineering, K. J. Somaiya Institute of Technology. Mumbai. Class of 2028.</text>
+<clipPath id="c0"><rect x="48" y="150" height="34" width="0" style="animation:t0 16.0s steps(38) infinite"/></clipPath><text x="48" y="174" clip-path="url(#c0)" class="type">Backend systems, built to be measured.</text><clipPath id="c1"><rect x="48" y="150" height="34" width="0" style="animation:t1 16.0s steps(45) infinite"/></clipPath><text x="48" y="174" clip-path="url(#c1)" class="type">Java / Spring Boot / Redis / FastAPI / React.</text><clipPath id="c2"><rect x="48" y="150" height="34" width="0" style="animation:t2 16.0s steps(52) infinite"/></clipPath><text x="48" y="174" clip-path="url(#c2)" class="type">Paytm Build with AI finalist. Merged PR in Checkora.</text><clipPath id="c3"><rect x="48" y="150" height="34" width="0" style="animation:t3 16.0s steps(51) infinite"/></clipPath><text x="48" y="174" clip-path="url(#c3)" class="type">Privacy-first software. Direct, encrypted, minimal.</text>
+<rect x="48" y="204" width="10" height="3" fill="#6366F1" class="cur"/>
+</svg>
